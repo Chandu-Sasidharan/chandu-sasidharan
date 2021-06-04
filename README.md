@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandu-Sasidharan
-- 👀 I’m interested in all sorts of technology, especially in the web and data science field
-- 🌱 I’m currently learning MERN stack development
-- 💞️ I’m looking to collaborate on any REACT.js project
+- 👀 I’m interested in all sorts of technology, especially in the area of web, iot and data..
+- 🌱 I’m currently learning AWS Fundamentals..
+- 💞️ I’m looking to collaborate on any Node.js project..
 - 📫 Reach me at www.chandu-sasidharan.de
 
 <!---
