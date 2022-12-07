@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chandu-Sasidharan
 - 👀 I’m interested in all sorts of technology, especially in the area of web, iot and data..
 - 🌱 I’m always learning something..
-- 💞️ I’m looking to collaborate on a Web3 project..
 - 📫 Reach me at www.chandu-sasidharan.de
 
 <!---
