@@ -30,6 +30,8 @@
             React |
             <img src="assets/logos/tailwind.svg" height="14" alt="Tailwind" />
             Tailwind |
+            <img src="assets/logos/stripe.jpeg" height="14" alt="Stripe" />
+            Stripe |
             <img src="assets/logos/aws.svg" height="14" alt="AWS" />
             AWS
         </td>
