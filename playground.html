@@ -106,6 +106,47 @@
 </table>
 <table>
     <tr>
+        <td width="50%"><h3>Curriculum CMS</h3></td>
+        <td width="50%">
+            <img src="assets/logos/decap.jpg" height="14" alt="Decap" />
+            Decap |
+            <img src="assets/logos/go.svg" height="14" alt="Go" />
+            Go |
+            <img src="assets/logos/git.svg" height="14" alt="git-gateway" />
+            git-gateway |
+            <img src="assets/logos/gotrue.png" height="14" alt="gotrue" />
+            gotrue |
+            <img
+                src="assets/logos/google-cloud.svg"
+                height="14"
+                alt="Google Oauth"
+            />
+            Google Oauth |
+            <img src="assets/logos/caddy.png" height="14" alt="Caddy" />
+            Caddy |
+            <img src="assets/logos/docker.svg" height="14" alt="Docker" />
+            Docker
+            <img src="assets/logos/github.svg" height="14" alt="GitHub" />
+            GutHub CI/CD
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <p>
+                Curriculum CMS is a custom solution built to standardize and
+                manage course curricula at DCI. Developed using Decap (React),
+                gotrue, git-gateway, and GitHub, this system provides easy
+                access for non-technical users - streamlining curriculum updates
+                and ensuring consistency.
+            </p>
+        </td>
+        <td width="50%">
+            <img src="assets/images/cms.png" alt="Grossjungig Website" />
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
         <td width="50%"><h3>Grossjungig</h3></td>
         <td width="50%">
             <img src="assets/logos/mongodb.svg" height="14" alt="MongoDB" />
