@@ -136,10 +136,10 @@
         <td width="50%">
             <p>
                 Curriculum CMS is a custom solution built to standardize and
-                manage course curricula at DCI. Developed using Decap (React),
-                gotrue, git-gateway, and GitHub, this system provides easy
-                access for non-technical users - streamlining curriculum updates
-                and ensuring consistency.
+                manage course curricula at DCI. Developed with Decap (React),
+                gotrue, git-gateway, GitHub, and decap custom widgets, this
+                system provides easy access for non-technical users -
+                streamlining curriculum updates and ensuring consistency.
             </p>
         </td>
         <td width="50%">
