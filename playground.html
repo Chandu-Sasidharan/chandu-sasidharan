@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/misc/cover-photo.png" alt="Cover Photo" />
+    <img src="assets/images/cover-photo.png" alt="Cover Photo" />
 </p>
 
 <p>
@@ -30,6 +30,8 @@
             Express |
             <img src="assets/logos/react.svg" height="14" alt="React" />
             React |
+            <img src="assets/logos/tailwind.svg" height="14" alt="Tailwind" />
+            Tailwind |
             <img src="assets/logos/aws.svg" height="14" alt="AWS" />
             AWS
         </td>
@@ -48,7 +50,59 @@
             </p>
         </td>
         <td width="50%">
-            <img src="assets/projects/biobaumbauer.png" alt="Cover Photo" />
+            <a
+                href="https://biobaumbauer.de/"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img
+                    src="assets/images/biobaumbauer.png"
+                    alt="Bio Baum Bauer Website"
+                />
+            </a>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td width="50%"><h3>Canoe Ville</h3></td>
+        <td width="50%">
+            <img src="assets/logos/html.svg" height="14" alt="HTML" />
+            HTML |
+            <img src="assets/logos/css.svg" height="14" alt="CSS" />
+            CSS |
+            <img src="assets/logos/sass.png" height="14" alt="Sass" />
+            Sass |
+            <img src="assets/logos/bootstrap.svg" height="14" alt="Bootstrap" />
+            Bootstrap |
+            <img src="assets/logos/react.svg" height="14" alt="React" />
+            React |
+            <img src="assets/logos/aws.svg" height="14" alt="AWS" />
+            AWS
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <p>
+                Redesigned the Canoe Ville website with a user-centric approach
+                to highlight the resort’s unique offerings, including
+                houseboat-themed accommodations and scenic event spaces. The
+                optimized design and enriched content increased page visits by
+                70% and boosted inquiries by 40%, enhancing Canoe Ville’s
+                reputation as a must-visit destination in Kerala.
+            </p>
+        </td>
+        <td width="50%">
+            <a
+                href="https://www.canoeville.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img
+                    src="assets/images/canoeville.png"
+                    alt="Canoe Ville Website"
+                />
+            </a>
         </td>
     </tr>
 </table>
