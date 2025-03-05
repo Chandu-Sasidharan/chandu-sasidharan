@@ -1,12 +1,10 @@
 <p align="center">
     <img src="assets/images/cover-photo.png" alt="Cover Photo" />
 </p>
-
 <p>
     📫 Reach me at
     <a href="https://www.chandu-sasidharan.de">www.chandu-sasidharan.de</a>
 </p>
-
 <p>
     I am a software developer passionate about building robust web applications
     and innovative solutions. With extensive experience in full-stack
@@ -103,6 +101,44 @@
                     alt="Canoe Ville Website"
                 />
             </a>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td width="50%"><h3>Grossjungig</h3></td>
+        <td width="50%">
+            <img src="assets/logos/mongodb.svg" height="14" alt="MongoDB" />
+            MongoDB |
+            <img src="assets/logos/express.svg" height="14" alt="Express" />
+            Express |
+            <img src="assets/logos/react.svg" height="14" alt="React" />
+            React |
+            <img src="assets/logos/mui.png" height="14" alt="MUI" />
+            Material UI |
+            <img src="assets/logos/aws.svg" height="14" alt="AWS" />
+            AWS
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <p>
+                Grossjungig is an intergenerational co - living marketplace that
+                connects older adults and youth in big cities, fostering social
+                cohesion and a more connected world. Built with the MERN stack,
+                the platform integrates geo-search functionality via
+                OpenStreetMap and leverages AWS S3 for image storage. A
+                dedicated admin panel - developed using react-admin streamlines
+                user data management and administrative tasks, while a well -
+                maintained CI/CD pipeline ensures stable deployments and
+                seamless updates.
+            </p>
+        </td>
+        <td width="50%">
+            <img
+                src="assets/images/grossjungig.png"
+                alt="Grossjungig Website"
+            />
         </td>
     </tr>
 </table>
