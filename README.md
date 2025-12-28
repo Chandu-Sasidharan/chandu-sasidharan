@@ -6,18 +6,69 @@
     <a href="https://www.chandu-sasidharan.de">www.chandu-sasidharan.de</a>
 </p>
 <p>
-    I am a software developer passionate about building robust web applications
-    and innovative solutions. With extensive experience in full-stack
-    development in early stage startups and a strong background in teaching and
-    mentoring aspiring developers, I bring a unique blend of technical expertise
-    and leadership skills to any team. Over the years, I have built robust
-    full-stack solutions, led cross-functional teams, and leveraged data-driven
-    insights to optimize performance and user experience. In my free time, I
-    enjoy exploring the great outdoors, forests, and mountains!
+    I am a Senior Full Stack Developer with extensive experience building and
+    scaling production-grade SaaS platforms and AI-enabled web applications. I
+    specialize in designing end-to-end systems using modern frontend
+    architectures, robust backend services, and cloud-native infrastructure,
+    with a strong focus on reliability, security, and maintainability. I have
+    taken multiple products from concept to production using React, Next.js,
+    TypeScript, Node.js, and cloud services on AWS and DigitalOcean. My work
+    includes multi-tenant SaaS platforms, AI-powered applications using
+    retrieval-augmented generation (RAG), secure authentication systems,
+    administrative dashboards, Stripe-based payment flows, and automated CI/CD
+    pipelines. I have strong hands-on experience integrating AI capabilities
+    into real product workflows, focusing on data ingestion, orchestration,
+    observability, and cost-efficient operation. I value clean architecture,
+    pragmatic decision-making, and building systems that solve real problems at
+    scale.
 </p>
 
 ## Selected Projects
 
+<table>
+    <tr>
+        <td width="50%"><h3>Kakapo</h3></td>
+        <td width="50%">
+            <img src="assets/logos/nextjs.svg" height="14" alt="NextJs" />
+            Next.js |
+            <img src="assets/logos/supabase.svg" height="14" alt="Supabase" />
+            Supabase |
+            <img src="assets/logos/docker.svg" height="14" alt="Docker" />
+            Docker |
+            <img src="assets/logos/tailwind.svg" height="14" alt="Tailwind" />
+            Tailwind
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <p>
+                Kakapo is a production-grade SaaS platform that enables
+                businesses to create, train, and embed AI-powered chatbots using
+                their own data into their website. I designed and implemented
+                the system end to end, including multi-tenant authentication,
+                bot management, and a retrieval-augmented generation (RAG)
+                pipeline built on Supabase vector storage. The platform supports
+                ingesting URLs and documents, orchestrates AI workflows using
+                LangChain and OpenAI, and incorporates caching and observability
+                to ensure reliable and cost-efficient operation. I also built
+                multiple integration surfaces, including a public share page,
+                iframe embeds, and a lightweight client-side script, allowing
+                the chatbot to be seamlessly embedded into any website. The
+                entire system was containerized and deployed using Docker,
+                Caddy, and automated CI/CD pipelines.
+            </p>
+        </td>
+        <td width="50%">
+            <a
+                href="https://kakapo.bot"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img src="assets/images/kakapo.png" alt="Kakapo Website" />
+            </a>
+        </td>
+    </tr>
+</table>
 <table>
     <tr>
         <td width="50%"><h3>Bio Baum Bauer</h3></td>
@@ -39,14 +90,19 @@
     <tr>
         <td width="50%">
             <p>
-                Bio Baum Bauer, in partnership with Solawi Zabergäu, features a
-                user-friendly e-commerce platform that enables individuals to
-                sponsor trees, receive personalized certificates, and monitor
-                their impact - fostering transparency and community engagement.
-                Designed with scalability in mind, the platform streamlines the
-                entire tree sponsorship process - from exploring available trees
-                to finalizing payments - making sustainable contributions
-                accessible to a wider audience.
+                BioBaumBauer is a production-ready web platform that combines a
+                customer-facing e-commerce experience with a robust backend and
+                administrative dashboard. I designed and implemented the system
+                end to end using a React-based storefront and a Node.js/Express
+                API backed by MongoDB. The platform supports secure checkout
+                flows using Stripe, content and inventory management via an
+                AdminJS dashboard, and integrations for transactional email and
+                media storage. I structured the project as a lightweight
+                monorepo to share tooling across services while keeping frontend
+                and backend concerns clearly separated. The entire application
+                was containerized and deployed using Docker, with dedicated
+                staging and production pipelines powered by GitHub Actions,
+                enabling reliable, repeatable deployments across environments.
             </p>
         </td>
         <td width="50%">
