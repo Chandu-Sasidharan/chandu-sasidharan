@@ -42,20 +42,14 @@
     <tr>
         <td width="50%">
             <p>
-                Kakapo is a production-grade SaaS platform that enables
-                businesses to create, train, and embed AI-powered chatbots using
-                their own data into their website. I designed and implemented
-                the system end to end, including multi-tenant authentication,
-                bot management, and a retrieval-augmented generation (RAG)
-                pipeline built on Supabase vector storage. The platform supports
-                ingesting URLs and documents, orchestrates AI workflows using
-                LangChain and OpenAI, and incorporates caching and observability
-                to ensure reliable and cost-efficient operation. I also built
-                multiple integration surfaces, including a public share page,
-                iframe embeds, and a lightweight client-side script, allowing
-                the chatbot to be seamlessly embedded into any website. The
-                entire system was containerized and deployed using Docker,
-                Caddy, and automated CI/CD pipelines.
+                Kakapo is a SaaS chatbot platform that allows users to train and
+                embed AI assistants on their own data using a
+                retrieval-augmented generation (RAG) architecture. I built the
+                platform end to end, including authentication, data ingestion,
+                vector storage, AI orchestration, caching, observability, and
+                production deployment. The system supports multiple embedding
+                options such as iframes and client-side scripts and is designed
+                for scalability and operational reliability.
             </p>
         </td>
         <td width="50%">
@@ -90,19 +84,14 @@
     <tr>
         <td width="50%">
             <p>
-                BioBaumBauer is a production-ready web platform that combines a
-                customer-facing e-commerce experience with a robust backend and
-                administrative dashboard. I designed and implemented the system
-                end to end using a React-based storefront and a Node.js/Express
-                API backed by MongoDB. The platform supports secure checkout
-                flows using Stripe, content and inventory management via an
-                AdminJS dashboard, and integrations for transactional email and
-                media storage. I structured the project as a lightweight
-                monorepo to share tooling across services while keeping frontend
-                and backend concerns clearly separated. The entire application
-                was containerized and deployed using Docker, with dedicated
-                staging and production pipelines powered by GitHub Actions,
-                enabling reliable, repeatable deployments across environments.
+                Bio Baum Bauer, in partnership with Solawi Zabergäu, features a
+                user-friendly e-commerce platform that enables individuals to
+                sponsor trees, receive personalized certificates, and monitor
+                their impact - fostering transparency and community engagement.
+                Designed with scalability in mind, the platform streamlines the
+                entire tree sponsorship process - from exploring available trees
+                to finalizing payments - making sustainable contributions
+                accessible to a wider audience.
             </p>
         </td>
         <td width="50%">
