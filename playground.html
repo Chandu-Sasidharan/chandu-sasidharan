@@ -54,7 +54,7 @@
         </td>
         <td width="50%">
             <a
-                href="https://kakapo.bot"
+                href="https://kakapo.chat"
                 target="_blank"
                 rel="noopener noreferrer"
             >
