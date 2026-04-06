@@ -36,7 +36,9 @@
             <img src="assets/logos/docker.svg" height="14" alt="Docker" />
             Docker |
             <img src="assets/logos/tailwind.svg" height="14" alt="Tailwind" />
-            Tailwind
+            Tailwind |
+            <img src="assets/logos/stripe.jpeg" height="14" alt="Stripe" />
+            Stripe
         </td>
     </tr>
     <tr>
