@@ -6,19 +6,22 @@
     <a href="https://www.chandu-sasidharan.de">www.chandu-sasidharan.de</a>
 </p>
 <p>
-    I am a Senior Full Stack Developer who takes SaaS products from concept to
-    production. My work covers the whole system: React and Next.js frontends,
-    Node.js backends, PostgreSQL, and cloud infrastructure on AWS and
-    Hetzner, with the CI/CD pipelines and observability needed to keep it
-    running.
+     I am a co-founder and senior full-stack engineer building the MindFull
+    Platform, a shared foundation for multi-tenant SaaS and AI-enabled products.
+    At MindFull Technologies, I take products from problem definition to
+    production across architecture, React and Next.js interfaces, Node.js and
+    PostgreSQL services, OIDC identity, AI retrieval workflows, testing, and
+    deployment. The platform brings Backoffice, Sanchari, and Kakapo together
+    through a modular monolith with independently deployable applications.
 </p>
 <p>
-    Recent work centres on multi-tenant platforms and AI-enabled products:
-    shared identity and authorization, Stripe subscriptions with metered
-    usage, retrieval-augmented generation (RAG) pipelines, and the data
-    ingestion, orchestration, and cost controls that make AI features
-    dependable in real workflows. I care about clean architecture, pragmatic
-    decisions, and software that solves an actual business problem.
+     Before MindFull, I led development teams, taught full-stack web development,
+    built IoT and marketplace products, and founded a business in Kerala. That
+    range shaped how I work: connect architecture to user needs, make tradeoffs
+    explicit, and choose coherent systems over complexity for its own sake. I
+    share the real decisions and lessons from building with coding agents, and
+    welcome conversations with founders, investors, and teams working on SaaS,
+    AI products, and complex web platforms.
 </p>
 
 ## Selected Projects
